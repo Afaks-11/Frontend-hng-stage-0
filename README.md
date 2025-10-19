@@ -78,3 +78,6 @@ npx live-server
 Frontend Developer
 
 This project is open-source and available under the **MIT License**.
+
+##  Live Demo
+**Live URL:** [https://afaks-11.github.io/Frontend-hng-stage-0/](https://afaks-11.github.io/Frontend-hng-stage-0/)
